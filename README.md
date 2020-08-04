@@ -55,7 +55,7 @@
 <!-- --- -->
 
 <img align="left" alt="Somprasong's Github Stats" src="https://github-readme-stats.vercel.app/api?username=somprasongd&show_icons=true&hide_border=true" />
-
+<img align="left" alt="Somprasong's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somprasongd" />
 
 [hospitalos]: http://www.hospital-os.com/
 [facebook]: https://www.facebook.com/somprasongds
