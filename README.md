@@ -59,6 +59,20 @@
 <!--<img align="left" alt="Somprasong's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=somprasongd" />-->
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
+
 <!--END_SECTION:waka-->
 
 
