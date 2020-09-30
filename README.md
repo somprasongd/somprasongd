@@ -54,8 +54,13 @@
 <!-- YOUTUBE:END -->
 <!-- --- -->
 
-<img align="left" alt="Somprasong's Github Stats" src="https://github-readme-stats.vercel.app/api?username=somprasongd&show_icons=true&hide_border=true" />
+<img align="left" alt="Somprasong's Github Stats" src="https://github-readme-stats.vercel.app/api?username=somprasongd&show_icons=true&hide_border=false" />
 <img align="left" alt="Somprasong's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somprasongd" />
+<!--<img align="left" alt="Somprasong's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=somprasongd" />-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 [hospitalos]: http://www.hospital-os.com/
 [facebook]: https://www.facebook.com/somprasongds
@@ -65,3 +70,7 @@
 
 [github-readme-stats]: https://github.com/anuraghazra/github-readme-stats
 [blog-post-workflow]: https://github.com/gautamkrishnar/blog-post-workflow
+
+
+
+
