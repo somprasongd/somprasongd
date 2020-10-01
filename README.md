@@ -65,10 +65,11 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               4 hrs 24 mins       ████████████████████░░░░░   83.21% 
+SQL                      53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.79%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 18 mins       █████████████████████████   100.0%
 
 ```
 
