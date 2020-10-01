@@ -37,6 +37,26 @@
 
 ---
 
+<!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+JavaScript               4 hrs 24 mins       ████████████████████░░░░░   83.21% 
+SQL                      53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.79%
+
+🔥 Editors: 
+VS Code                  5 hrs 18 mins       █████████████████████████   100.0%
+
+```
+
+
+<!--END_SECTION:waka-->
+
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -57,24 +77,6 @@
 <img align="left" alt="Somprasong's Github Stats" src="https://github-readme-stats.vercel.app/api?username=somprasongd&show_icons=true&hide_border=false" />
 <img align="left" alt="Somprasong's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somprasongd" />
 <!--<img align="left" alt="Somprasong's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=somprasongd" />-->
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-JavaScript               4 hrs 24 mins       ████████████████████░░░░░   83.21% 
-SQL                      53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.79%
-
-🔥 Editors: 
-VS Code                  5 hrs 18 mins       █████████████████████████   100.0%
-
-```
-
-
-<!--END_SECTION:waka-->
 
 
 [hospitalos]: http://www.hospital-os.com/
