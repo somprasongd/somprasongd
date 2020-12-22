@@ -68,7 +68,6 @@ VS Code                  5 mins              ░░░░░░░░░░░�
 - [บันทึกการติดตั้ง oh-my-posh](https://dev.to/somprasongd/oh-my-posh-18ef)
 - [Fullstack with GraphQL, Prisma, Node, React and Apollo Boost](https://dev.to/somprasongd/fullstack-with-graphql-prisma-node-react-and-apollo-boost-3ado)
 - [Docker ฉบับรวบรัด 2020](https://dev.to/somprasongd/docker-2020-2b4a)
-- [Jasper Report: วิธีการตรวจสอบ $P{date} is null ในคิวรี่](https://medium.com/@somprasongd/jasper-report-%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A-p-date-is-null-%E0%B9%83%E0%B8%99%E0%B8%84%E0%B8%B4%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B9%88-71cd22de31ea?source=rss-eb4e76569e6e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
