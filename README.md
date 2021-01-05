@@ -44,11 +44,10 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Java                     20 mins             ████████████████░░░░░░░░░   64.1% 
-Properties               11 mins             █████████░░░░░░░░░░░░░░░░   35.9%
+No Activity Tracked This Week
 
 🔥 Editors: 
-NetBeans                 32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
