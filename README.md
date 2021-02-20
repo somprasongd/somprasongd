@@ -59,11 +59,11 @@ VS Code                  0 secs              ░░░░░░░░░░░�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [กำหนด limit CPU/Memory ให้กับ Docker ที่รันบน WSL 2](https://dev.to/somprasongd/limit-cpu-memory-docker-wsl-2-4ap9)
 - [ถ้าจะเปลี่ยนจาก Node.js มา Deno เริ่มยังไง?](https://dev.to/somprasongd/node-js-deno-16b6)
 - [บันทึกการโหลด vdo จาก teachable](https://dev.to/somprasongd/vdo-teachable-o9b)
 - [บันทึกการติดตั้ง oh-my-posh](https://dev.to/somprasongd/oh-my-posh-18ef)
 - [Fullstack with GraphQL, Prisma, Node, React and Apollo Boost](https://dev.to/somprasongd/fullstack-with-graphql-prisma-node-react-and-apollo-boost-3ado)
-- [Docker ฉบับรวบรัด 2020](https://dev.to/somprasongd/docker-2020-2b4a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
