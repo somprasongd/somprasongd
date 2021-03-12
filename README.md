@@ -63,11 +63,11 @@ VS Code                  15 mins             ███████████�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [จาก JavaScript ไปยัง TypeScript เริ่มยังไง](https://dev.to/somprasongd/javascript-typescript-4ffj)
+- [วิธีการตั้งค่า TypeScript กับ Node.js](https://dev.to/somprasongd/typescript-node-js-jb7)
 - [วิธีติดตั้ง WSL 2 ใน Drive อื่น](https://dev.to/somprasongd/wsl-2-drive-49g4)
 - [กำหนด limit CPU/Memory ให้กับ Docker ที่รันบน WSL 2](https://dev.to/somprasongd/limit-cpu-memory-docker-wsl-2-4ap9)
 - [ถ้าจะเปลี่ยนจาก Node.js มา Deno เริ่มยังไง?](https://dev.to/somprasongd/node-js-deno-16b6)
-- [บันทึกการโหลด vdo จาก teachable](https://dev.to/somprasongd/vdo-teachable-o9b)
-- [บันทึกการติดตั้ง oh-my-posh](https://dev.to/somprasongd/oh-my-posh-18ef)
 <!-- BLOG-POST-LIST:END -->
 
 ---
