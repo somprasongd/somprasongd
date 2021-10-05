@@ -44,17 +44,15 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               13 mins             ████████████░░░░░░░░░░░░░   47.88% 
-JavaScript               13 mins             ████████████░░░░░░░░░░░░░   47.56% 
-YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.56%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 04/10/2021
+ Last Updated on 05/10/2021
 <!--END_SECTION:waka-->
 
 ---
