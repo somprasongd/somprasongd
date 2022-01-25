@@ -44,16 +44,15 @@
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       1 hr 57 mins        █████████████████████████   99.98% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 57 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 24/01/2022 01:44:48 UTC
+ Last Updated on 25/01/2022 01:47:41 UTC
 <!--END_SECTION:waka-->
 
 ---
