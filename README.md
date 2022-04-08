@@ -65,11 +65,11 @@ NetBeans                 4 mins              ░░░░░░░░░░░�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Go Testing](https://somprasongd.work/blog/go/go-test)
 - [Advanced concepts in Go](https://somprasongd.work/blog/go/go-advanced-concepts)
 - [Go Fundamentals](https://somprasongd.work/blog/go/go-fundamentals)
 - [ถ้าจะเอา Hospital-OS ไปออกหน่วยฉีดวัคซีน ทำยังไง](https://dev.to/somprasongd/hospital-os-102p)
 - [จาก JavaScript ไปยัง TypeScript เริ่มยังไง](https://dev.to/somprasongd/javascript-typescript-4ffj)
-- [วิธีการตั้งค่า TypeScript กับ Node.js](https://dev.to/somprasongd/typescript-node-js-jb7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
