@@ -65,11 +65,11 @@ NetBeans                 4 mins              ░░░░░░░░░░░�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Testing](https://somprasongd.work/blog/go/go-test)
-- [Advanced concepts in Go](https://somprasongd.work/blog/go/go-advanced-concepts)
-- [Go Fundamentals](https://somprasongd.work/blog/go/go-fundamentals)
-- [ถ้าจะเอา Hospital-OS ไปออกหน่วยฉีดวัคซีน ทำยังไง](https://dev.to/somprasongd/hospital-os-102p)
-- [จาก JavaScript ไปยัง TypeScript เริ่มยังไง](https://dev.to/somprasongd/javascript-typescript-4ffj)
+- [API Service with Go: Zero to Production](https://somprasongd.work/blog/go/golang-api)
+- [Connect to SQL Database with GORM](https://somprasongd.work/blog/go/golang-db-part3)
+- [Connect to SQL Database with sqlx](https://somprasongd.work/blog/go/golang-db-part2)
+- [Connect to SQL Database with Go](https://somprasongd.work/blog/go/golang-db-part1)
+- [Golang Part 3: Go Testing](https://somprasongd.work/blog/go/golang-part3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
