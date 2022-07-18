@@ -67,10 +67,10 @@ VS Code                  6 hrs 27 mins       ███████████�
 
 <!-- BLOG-POST-LIST:START -->
 - [Principles of Hexagonal Architecture](https://somprasongd.work/blog/architecture/hexagonal)
-- [วิธีการสร้าง function handler ให้ใช้ได้กับทุก web framework](https://somprasongd.work/blog/go/golang-api-handlefunc)
-- [API Service with Go: Zero to Production](https://somprasongd.work/blog/go/golang-api)
-- [Connect to SQL Database with GORM](https://somprasongd.work/blog/go/golang-db-part3)
-- [Connect to SQL Database with sqlx](https://somprasongd.work/blog/go/golang-db-part2)
+- [API Service with Go: Make handle func for any web frameworks](https://somprasongd.work/blog/go/golang-api-p7-handlefunc)
+- [API Service with Go: Deploy with docker-compose](https://somprasongd.work/blog/go/golang-api-p6-deploy)
+- [Liveness Probe and Readiness Probe](https://somprasongd.work/blog/architecture/liveness-readiness-probe)
+- [API Service with Go: Logging](https://somprasongd.work/blog/go/golang-api-p5-log)
 <!-- BLOG-POST-LIST:END -->
 
 ---
