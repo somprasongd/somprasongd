@@ -66,11 +66,11 @@ VS Code                  18 hrs 49 mins      ███████████�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [API Service with Go: Database Migrations](https://somprasongd.work/blog/go/golang-api-p11-dbmigrate)
 - [API Service with Go: API Documents](https://somprasongd.work/blog/go/golang-api-p10-doc)
 - [API Service with Go: API Testing](https://somprasongd.work/blog/go/golang-api-p9-test)
 - [API Service with Go: Project Structure](https://somprasongd.work/blog/go/golang-api-p8-proj-structure)
 - [Principles of Hexagonal Architecture](https://somprasongd.work/blog/architecture/hexagonal)
-- [API Service with Go: Make handle func for any web frameworks](https://somprasongd.work/blog/go/golang-api-p7-handlefunc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
