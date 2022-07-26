@@ -67,11 +67,11 @@ NetBeans                 1 hr 4 mins         █░░░░░░░░░░�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Authentication and Authorization?](https://somprasongd.work/blog/architecture/authen-101)
 - [How to Set Up a Node.js Project with TypeScript 2022](https://somprasongd.work/blog/nodejs/nodejs-ts-setup)
 - [API Service with Go: Database Migrations](https://somprasongd.work/blog/go/golang-api-p11-dbmigrate)
 - [API Service with Go: API Documents](https://somprasongd.work/blog/go/golang-api-p10-doc)
 - [API Service with Go: API Testing](https://somprasongd.work/blog/go/golang-api-p9-test)
-- [API Service with Go: Project Structure](https://somprasongd.work/blog/go/golang-api-p8-proj-structure)
 <!-- BLOG-POST-LIST:END -->
 
 ---
