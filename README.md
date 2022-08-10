@@ -66,11 +66,11 @@ VS Code                  15 hrs 52 mins      ███████████�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [API Service with Go: Logger Middleware](https://somprasongd.work/blog/go/golang-api-p15-log-mdw)
 - [API Service with Go: Access Token &amp; Refresh Token](https://somprasongd.work/blog/go/golang-api-p14-access-refresh-token)
 - [API Service with Go: Authorization RBAC with Casbin](https://somprasongd.work/blog/go/golang-api-p13-casbin)
 - [API Service with Go: Authentication with JWT](https://somprasongd.work/blog/go/golang-api-p12-jwt)
 - [What is Authentication and Authorization?](https://somprasongd.work/blog/architecture/authen-101)
-- [How to Set Up a Node.js Project with TypeScript 2022](https://somprasongd.work/blog/nodejs/nodejs-ts-setup)
 <!-- BLOG-POST-LIST:END -->
 
 ---
