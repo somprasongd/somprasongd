@@ -66,11 +66,11 @@ VS Code                  6 hrs 12 mins       ███████████�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ทำ Authentication ด้วย Nginx auth_request โมดูล](https://somprasongd.work/blog/server/nginx-authrequest)
 - [API Service with Go: Logger Middleware](https://somprasongd.work/blog/go/golang-api-p15-log-mdw)
 - [API Service with Go: Access Token &amp; Refresh Token](https://somprasongd.work/blog/go/golang-api-p14-access-refresh-token)
 - [API Service with Go: Authorization RBAC with Casbin](https://somprasongd.work/blog/go/golang-api-p13-casbin)
 - [API Service with Go: Authentication with JWT](https://somprasongd.work/blog/go/golang-api-p12-jwt)
-- [What is Authentication and Authorization?](https://somprasongd.work/blog/architecture/authen-101)
 <!-- BLOG-POST-LIST:END -->
 
 ---
