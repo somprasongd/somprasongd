@@ -38,10 +38,27 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-704%20hrs%2036%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+YAML                     2 hrs 34 mins       ██████████████░░░░░░░░░░░   59.43% 
+JavaScript               51 mins             █████░░░░░░░░░░░░░░░░░░░░   19.62% 
+Go                       35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.83% 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47% 
+Makefile                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44%
+
+🔥 Editors: 
+VS Code                  4 hrs 20 mins       █████████████████████████   100.0%
+
+```
 
 
- Last Updated on 05/09/2022 03:22:33 UTC
+ Last Updated on 06/09/2022 03:26:49 UTC
 <!--END_SECTION:waka-->
 
 ---
