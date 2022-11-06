@@ -38,7 +38,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-865%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-868%20hrs%2013%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -59,7 +59,7 @@ NetBeans                 1 hr 17 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 05/11/2022 02:37:31 UTC
+ Last Updated on 06/11/2022 02:43:05 UTC
 <!--END_SECTION:waka-->
 
 ---
