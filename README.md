@@ -67,11 +67,11 @@ NetBeans                 4 hrs 16 mins       ███████████�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [การใช้งาน Enum ใน Go](https://somprasongd.work/blog/go/golang-enum)
 - [จะส่ง base64 ให้เป็น file ทำยังไง](https://somprasongd.work/blog/go/golang-api-base64-to-file)
 - [CRUD API in Go with Fiber and Bun ORM](https://somprasongd.work/blog/go/golang-api-fiber-bun)
 - [Connect to SQL Database with Bun](https://somprasongd.work/blog/go/golang-db-part4-bun)
 - [จัดลำดับการ start services ใน docker-compose](https://somprasongd.work/blog/docker/docker-compose-depends_on)
-- [ทำ Authentication ด้วย Nginx auth_request โมดูล](https://somprasongd.work/blog/server/nginx-authrequest)
 <!-- BLOG-POST-LIST:END -->
 
 ---
