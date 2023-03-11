@@ -65,11 +65,11 @@ VS Code                  16 hrs 50 mins      ███████████�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL เบื้องต้น](https://somprasongd.work/blog/db/sql/sql-basic)
 - [ติดตั้ง PostgreSQL ด้วย Docker](https://somprasongd.work/blog/db/postgres/install-with-docker)
+- [DBML คืออะไร](https://somprasongd.work/blog/db/dbml)
 - [Database คืออะไร](https://somprasongd.work/blog/db/what-is-database)
 - [การใช้งาน Enum ใน Go](https://somprasongd.work/blog/go/golang-enum)
-- [จะส่ง base64 ให้เป็น file ทำยังไง](https://somprasongd.work/blog/go/golang-api-base64-to-file)
-- [CRUD API in Go with Fiber and Bun ORM](https://somprasongd.work/blog/go/golang-api-fiber-bun)
 <!-- BLOG-POST-LIST:END -->
 
 ---
