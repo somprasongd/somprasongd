@@ -66,11 +66,11 @@ NetBeans                 25 mins             █░░░░░░░░░░�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [การกำหนด default parameter ในภาษา Go](https://somprasongd.work/blog/go/golang-functional-options)
+- [การกำหนด Default Value ให้กับ Struct ในภาษา Go](https://somprasongd.work/blog/go/golang-default-struct-value)
+- [เรื่อง Reflect ในภาษา Go](https://somprasongd.work/blog/go/golang-reflect)
 - [SQL เบื้องต้น](https://somprasongd.work/blog/db/sql/sql-basic)
 - [ติดตั้ง PostgreSQL ด้วย Docker](https://somprasongd.work/blog/db/postgres/install-with-docker)
-- [DBML คืออะไร](https://somprasongd.work/blog/db/dbml)
-- [Database คืออะไร](https://somprasongd.work/blog/db/what-is-database)
-- [การใช้งาน Enum ใน Go](https://somprasongd.work/blog/go/golang-enum)
 <!-- BLOG-POST-LIST:END -->
 
 ---
