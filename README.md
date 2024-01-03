@@ -46,15 +46,14 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               1 hr 37 mins        ████████████████████████░   96.41 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 02/01/2024 01:38:42 UTC
+ Last Updated on 03/01/2024 01:37:16 UTC
 <!--END_SECTION:waka-->
 
 ---
