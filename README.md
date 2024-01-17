@@ -38,7 +38,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C628%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C628%20hrs%2031%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -46,15 +46,15 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Java                     2 hrs 1 min         █████████████████████████   99.92 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Java                     1 hr 25 mins        █████████████████████████   99.89 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-NetBeans                 2 hrs 1 min         █████████████████████████   100.00 % 
+NetBeans                 1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/01/2024 01:39:55 UTC
+ Last Updated on 17/01/2024 01:40:19 UTC
 <!--END_SECTION:waka-->
 
 ---
