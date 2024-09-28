@@ -65,11 +65,11 @@ VS Code                  58 mins             ███████████�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [เปิดใช้งาน SSH Server บน Ubuntu 24.04](https://somprasongd.work/blog/server/ssh-server-ubuntu)
 - [การตั้งชื่อในภาษา Go](https://somprasongd.work/blog/go/golang-naming-conventions)
 - [การกำหนด default parameter ในภาษา Go](https://somprasongd.work/blog/go/golang-functional-options)
 - [การกำหนด Default Value ให้กับ Struct ในภาษา Go](https://somprasongd.work/blog/go/golang-default-struct-value)
 - [เรื่อง Reflect ในภาษา Go](https://somprasongd.work/blog/go/golang-reflect)
-- [SQL เบื้องต้น](https://somprasongd.work/blog/db/sql/sql-basic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
