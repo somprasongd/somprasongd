@@ -65,11 +65,11 @@ VS Code                  2 hrs 50 mins       ███████████�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [การจัดการ Error ใน Rest API](https://somprasongd.work/blog/go/golang-api-error-handling)
 - [ใช้งาน Local Coding Assistant ใน VSCode ด้วย Continue และ Ollama](https://somprasongd.work/blog/ai/local-coding-assistant)
 - [เริ่มต้นใช้งาน LLM บนเครื่องตัวเอง ด้วย Ollama และ Open WebUI](https://somprasongd.work/blog/ai/llm-ollama-oi)
 - [เปิดใช้งาน SSH Server บน Ubuntu 24.04](https://somprasongd.work/blog/server/ssh-server-ubuntu)
 - [การตั้งชื่อในภาษา Go](https://somprasongd.work/blog/go/golang-naming-conventions)
-- [การกำหนด default parameter ในภาษา Go](https://somprasongd.work/blog/go/golang-functional-options)
 <!-- BLOG-POST-LIST:END -->
 
 ---
