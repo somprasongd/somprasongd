@@ -65,11 +65,11 @@ VS Code                  4 hrs 8 mins        ███████████�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [การจัดการ Error ใน Rest API](https://somprasongd.work/blog/go/golang-api-error-handling)
-- [ใช้งาน Local Coding Assistant ใน VSCode ด้วย Continue และ Ollama](https://somprasongd.work/blog/ai/local-coding-assistant)
-- [เริ่มต้นใช้งาน LLM บนเครื่องตัวเอง ด้วย Ollama และ Open WebUI](https://somprasongd.work/blog/ai/llm-ollama-oi)
-- [เปิดใช้งาน SSH Server บน Ubuntu 24.04](https://somprasongd.work/blog/server/ssh-server-ubuntu)
-- [การตั้งชื่อในภาษา Go](https://somprasongd.work/blog/go/golang-naming-conventions)
+- [Anemic Model vs Rich Model](https://somprasongd.work/blog/architecture/anemic_vs_rich_model)
+- [ความสัมพันธ์ระหว่าง Anemic Model และ Rich Model กับ Domain-Driven Design &lpar;DDD&rpar;](https://somprasongd.work/blog/architecture/anemic_vs_rich_model_ddd)
+- [การออกแบบฟังก์ชัน &quot;โอนเงิน&quot; ในระบบ DDD &lpar;Transfer Money Use Case&rpar;](https://somprasongd.work/blog/architecture/ddd_money_transfer_usecase)
+- [การทำงานแบบ Concurrency ในภาษา Go](https://somprasongd.work/blog/go/golang-concurrency)
+- [ทำความรู้จักกับ Generic ในภาษา Go](https://somprasongd.work/blog/go/golang-generic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
