@@ -65,11 +65,11 @@ VS Code                  5 hrs 27 mins       ███████████�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [แปลง REST API จาก Layered Architecture ไปเป็น Hexagonal Architecture](https://somprasongd.work/blog/architecture/layerd_vs_hexagonal_part2)
+- [Vertical Slice Architecture](https://somprasongd.work/blog/architecture/vertical_slice)
+- [เปรียบเทียบ Layered Architecture กับ Hexagonal Architecture ในการพัฒนา REST API](https://somprasongd.work/blog/architecture/layerd_vs_hexagonal)
 - [Anemic Model vs Rich Model](https://somprasongd.work/blog/architecture/anemic_vs_rich_model)
 - [ความสัมพันธ์ระหว่าง Anemic Model และ Rich Model กับ Domain-Driven Design &lpar;DDD&rpar;](https://somprasongd.work/blog/architecture/anemic_vs_rich_model_ddd)
-- [การออกแบบฟังก์ชัน &quot;โอนเงิน&quot; ในระบบ DDD &lpar;Transfer Money Use Case&rpar;](https://somprasongd.work/blog/architecture/ddd_money_transfer_usecase)
-- [การทำงานแบบ Concurrency ในภาษา Go](https://somprasongd.work/blog/go/golang-concurrency)
-- [ทำความรู้จักกับ Generic ในภาษา Go](https://somprasongd.work/blog/go/golang-generic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
