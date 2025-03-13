@@ -65,11 +65,11 @@ VS Code                  3 hrs 31 mins       ███████████�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [แปลง REST API จาก Layered Architecture ไปเป็น Hexagonal Architecture](https://somprasongd.work/blog/architecture/layerd_vs_hexagonal_part2)
-- [Vertical Slice Architecture](https://somprasongd.work/blog/architecture/vertical_slice)
-- [เปรียบเทียบ Layered Architecture กับ Hexagonal Architecture ในการพัฒนา REST API](https://somprasongd.work/blog/architecture/layerd_vs_hexagonal)
-- [Anemic Model vs Rich Model](https://somprasongd.work/blog/architecture/anemic_vs_rich_model)
-- [ความสัมพันธ์ระหว่าง Anemic Model และ Rich Model กับ Domain-Driven Design &lpar;DDD&rpar;](https://somprasongd.work/blog/architecture/anemic_vs_rich_model_ddd)
+- [Vertical Slice Architecture ร่วมกับ CQRS และ Mediator Pattern](https://somprasongd.work/blog/architecture/vertical-slice-cqrs)
+- [Vertical Slice Architecture](https://somprasongd.work/blog/architecture/vertical-slice)
+- [แปลง REST API จาก Layered Architecture ไปเป็น Hexagonal Architecture](https://somprasongd.work/blog/architecture/layered-vs-hexagonal-part2)
+- [เปรียบเทียบ Layered Architecture กับ Hexagonal Architecture ในการพัฒนา REST API](https://somprasongd.work/blog/architecture/layered-vs-hexagonal)
+- [ความสัมพันธ์ระหว่าง Anemic Model และ Rich Model กับ Domain-Driven Design &lpar;DDD&rpar;](https://somprasongd.work/blog/architecture/anemic-vs-rich-model-ddd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
