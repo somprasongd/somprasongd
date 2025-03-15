@@ -64,11 +64,11 @@ VS Code                  1 hr 48 mins        ███████████�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Go Fundamentals &lpar;2025&rpar;](https://somprasongd.work/blog/go/go-fundamentals-2025)
 - [Vertical Slice Architecture ร่วมกับ CQRS และ Mediator Pattern](https://somprasongd.work/blog/architecture/vertical-slice-cqrs)
 - [Vertical Slice Architecture](https://somprasongd.work/blog/architecture/vertical-slice)
 - [แปลง REST API จาก Layered Architecture ไปเป็น Hexagonal Architecture](https://somprasongd.work/blog/architecture/layered-vs-hexagonal-part2)
 - [เปรียบเทียบ Layered Architecture กับ Hexagonal Architecture ในการพัฒนา REST API](https://somprasongd.work/blog/architecture/layered-vs-hexagonal)
-- [ความสัมพันธ์ระหว่าง Anemic Model และ Rich Model กับ Domain-Driven Design &lpar;DDD&rpar;](https://somprasongd.work/blog/architecture/anemic-vs-rich-model-ddd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
