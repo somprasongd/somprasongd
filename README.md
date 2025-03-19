@@ -65,11 +65,11 @@ VS Code                  7 hrs 35 mins       ███████████�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scope ของตัวแปรใน Go](https://somprasongd.work/blog/go/variable-scope)
 - [Design Patterns ที่นิยมใช้ในภาษา Go](https://somprasongd.work/blog/go/desing-patterns-in-go)
 - [Go Fundamentals &lpar;2025&rpar;](https://somprasongd.work/blog/go/go-fundamentals-2025)
 - [Vertical Slice Architecture ร่วมกับ CQRS และ Mediator Pattern](https://somprasongd.work/blog/architecture/vertical-slice-cqrs)
 - [Vertical Slice Architecture](https://somprasongd.work/blog/architecture/vertical-slice)
-- [แปลง REST API จาก Layered Architecture ไปเป็น Hexagonal Architecture](https://somprasongd.work/blog/architecture/layered-vs-hexagonal-part2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
