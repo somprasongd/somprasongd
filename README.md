@@ -65,11 +65,11 @@ VS Code                  13 hrs 51 mins      ███████████�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Go Fundamentals](https://medium.com/@somprasongd/go-fundamentals-749103ad3435?source=rss-eb4e76569e6e------2)
+- [Go Fundamentals](https://dev.to/somprasongd/go-fundamentals-jne)
 - [Scope ของตัวแปรใน Go](https://somprasongd.work/blog/go/variable-scope)
 - [Design Patterns ที่นิยมใช้ในภาษา Go](https://somprasongd.work/blog/go/desing-patterns-in-go)
-- [Go Fundamentals &lpar;2025&rpar;](https://somprasongd.work/blog/go/go-fundamentals-2025)
-- [Vertical Slice Architecture ร่วมกับ CQRS และ Mediator Pattern](https://somprasongd.work/blog/architecture/vertical-slice-cqrs)
-- [Vertical Slice Architecture](https://somprasongd.work/blog/architecture/vertical-slice)
+- [Go Fundamentals](https://somprasongd.work/blog/go/go-fundamentals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
