@@ -63,11 +63,11 @@ VS Code                  1 hr 16 mins        ███████████�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ทำความรู้จัก Modular Monolith: สถาปัตยกรรมที่สมดุลระหว่าง Monolith และ Microservices](https://medium.com/@somprasongd/%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81-modular-monolith-%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%9B%E0%B8%B1%E0%B8%95%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87-monolith-%E0%B9%81%E0%B8%A5%E0%B8%B0-microservices-4a5b6e99eaf8?source=rss-eb4e76569e6e------2)
+- [ทำความรู้จัก Modular Monolith: สถาปัตยกรรมที่สมดุลระหว่าง Monolith และ Microservices](https://dev.to/somprasongd/thamkhwaamruucchak-modular-monolith-sthaapatykrrmthiismdulrahwaang-monolith-aela-microservices-3oe5)
+- [ทำความรู้จัก Modular Monolith: สถาปัตยกรรมที่สมดุลระหว่าง Monolith และ Microservices](https://somprasongd.work/blog/architecture/modular-monolith)
 - [Go Fundamentals](https://medium.com/@somprasongd/go-fundamentals-749103ad3435?source=rss-eb4e76569e6e------2)
 - [Go Fundamentals](https://dev.to/somprasongd/go-fundamentals-jne)
-- [Scope ของตัวแปรใน Go](https://somprasongd.work/blog/go/variable-scope)
-- [Design Patterns ที่นิยมใช้ในภาษา Go](https://somprasongd.work/blog/go/desing-patterns-in-go)
-- [Go Fundamentals](https://somprasongd.work/blog/go/go-fundamentals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
