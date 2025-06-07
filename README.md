@@ -65,11 +65,11 @@ VS Code                  21 hrs 16 mins      ███████████�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ลด Coupling และแยก Concern ด้วย Domain Event และ Integration Event](https://medium.com/@somprasongd/%E0%B8%A5%E0%B8%94-coupling-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%81%E0%B8%A2%E0%B8%81-concern-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-domain-event-%E0%B9%81%E0%B8%A5%E0%B8%B0-integration-event-be26a5b916f1?source=rss-eb4e76569e6e------2)
+- [ลด Coupling และแยก Concern ด้วย Domain Event และ Integration Event](https://dev.to/somprasongd/ld-coupling-aelaaeyk-concern-dwy-domain-event-aela-integration-event-f0p)
+- [ลด Coupling และแยก Concern ด้วย Domain Event และ Integration Event](https://somprasongd.work/blog/architecture/domain-event-vs-integration-event)
 - [N8N Credentials Setup: จัดให้ครบ จบทุกการเชื่อมต่อ](https://dev.to/somprasongd/n8n-credentials-setup-cchadaihkhrb-cchbthukkaarechuuemt-2gc3)
 - [N8N Credentials Setup: จัดให้ครบ จบทุกการเชื่อมต่อ](https://somprasongd.work/blog/n8n/credentail_setup)
-- [ทำความรู้จัก Modular Monolith: สถาปัตยกรรมที่สมดุลระหว่าง Monolith และ Microservices](https://dev.to/somprasongd/thamkhwaamruucchak-modular-monolith-sthaapatykrrmthiismdulrahwaang-monolith-aela-microservices-3oe5)
-- [ทำความรู้จัก Modular Monolith: สถาปัตยกรรมที่สมดุลระหว่าง Monolith และ Microservices](https://somprasongd.work/blog/architecture/modular-monolith)
-- [Go Fundamentals](https://dev.to/somprasongd/go-fundamentals-jne)
 <!-- BLOG-POST-LIST:END -->
 
 ---
