@@ -65,11 +65,11 @@ VS Code                  25 hrs 34 mins      ███████████�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [การแยกข้อมูลระหว่างโมดูล &lpar;Data Isolation&rpar;](https://somprasongd.work/blog/architecture/modular-monolith-data-isolation)
 - [ลด Coupling และแยก Concern ด้วย Domain Event และ Integration Event](https://medium.com/@somprasongd/%E0%B8%A5%E0%B8%94-coupling-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%81%E0%B8%A2%E0%B8%81-concern-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-domain-event-%E0%B9%81%E0%B8%A5%E0%B8%B0-integration-event-be26a5b916f1?source=rss-eb4e76569e6e------2)
 - [ลด Coupling และแยก Concern ด้วย Domain Event และ Integration Event](https://dev.to/somprasongd/ld-coupling-aelaaeyk-concern-dwy-domain-event-aela-integration-event-f0p)
 - [ลด Coupling และแยก Concern ด้วย Domain Event และ Integration Event](https://somprasongd.work/blog/architecture/domain-event-vs-integration-event)
 - [N8N Credentials Setup: จัดให้ครบ จบทุกการเชื่อมต่อ](https://dev.to/somprasongd/n8n-credentials-setup-cchadaihkhrb-cchbthukkaarechuuemt-2gc3)
-- [N8N Credentials Setup: จัดให้ครบ จบทุกการเชื่อมต่อ](https://somprasongd.work/blog/n8n/credentail_setup)
 <!-- BLOG-POST-LIST:END -->
 
 ---
