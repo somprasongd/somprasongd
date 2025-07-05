@@ -65,11 +65,11 @@ VS Code                  4 hrs 54 mins       ███████████�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [การสร้าง Docker Image สำหรับ Go ให้เหมาะกับ Production](https://medium.com/@somprasongd/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-docker-image-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A-go-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%9A-production-e07455cb7fee?source=rss-eb4e76569e6e------2)
-- [ทำไมต้องใช้ Database Transaction?](https://medium.com/@somprasongd/%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%8A%E0%B9%89-database-transaction-9f4ecc895a1f?source=rss-eb4e76569e6e------2)
-- [การสร้าง Docker Image สำหรับ Go ให้เหมาะกับ Production](https://dev.to/somprasongd/kaarsraang-docker-image-samhrab-go-aihehmaaakab-production-529b)
-- [การสร้าง Docker Image สำหรับ Go ให้เหมาะกับ Production](https://somprasongd.work/blog/docker/docker-image-for-go)
-- [ทำไมต้องใช้ Database Transaction?](https://dev.to/somprasongd/thamaimtngaich-database-transaction-3926)
+- [Distributed Logging: ตอนที่ 3 Promtail ดึง Log จาก Kubernetes](https://dev.to/somprasongd/distributed-logging-tnthii-3-promtail-dueng-log-cchaak-kubernetes-4m03)
+- [Distributed Logging: ตอนที่ 2 ส่ง Log จาก Go Fiber ไป Loki](https://dev.to/somprasongd/distributed-logging-tnthii-2-sng-log-cchaak-go-fiber-aip-loki-1g7e)
+- [Distributed Logging: ตอนที่ 1 ให้ Log รู้ว่าเกิดจาก Request เดียวกัน](https://dev.to/somprasongd/distributed-logging-tnthii-1-aih-log-ruuwaaekidcchaak-request-ediiywkan-2p4n)
+- [Distributed Logging: ตอนที่ 2 ส่ง Log จาก Go Fiber ไป Loki](https://somprasongd.work/blog/go/distributed-logging-2)
+- [Distributed Logging: ตอนที่ 3 Promtail ดึง Log จาก Kubernetes](https://somprasongd.work/blog/go/distributed-logging-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
