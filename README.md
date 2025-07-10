@@ -65,11 +65,11 @@ VS Code                  8 hrs 44 mins       ███████████�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Distributed Logging: ตอนที่ 3 Promtail ดึง Log จาก Kubernetes](https://dev.to/somprasongd/distributed-logging-tnthii-3-promtail-dueng-log-cchaak-kubernetes-4m03)
-- [Distributed Logging: ตอนที่ 2 ส่ง Log จาก Go Fiber ไป Loki](https://dev.to/somprasongd/distributed-logging-tnthii-2-sng-log-cchaak-go-fiber-aip-loki-1g7e)
-- [Distributed Logging: ตอนที่ 1 ให้ Log รู้ว่าเกิดจาก Request เดียวกัน](https://dev.to/somprasongd/distributed-logging-tnthii-1-aih-log-ruuwaaekidcchaak-request-ediiywkan-2p4n)
-- [Distributed Logging: ตอนที่ 2 ส่ง Log จาก Go Fiber ไป Loki](https://somprasongd.work/blog/go/distributed-logging-2)
-- [Distributed Logging: ตอนที่ 3 Promtail ดึง Log จาก Kubernetes](https://somprasongd.work/blog/go/distributed-logging-3)
+- [Observability Series ตอนที่ 4 — เก็บ Metrics ด้วย OpenTelemetry + OTLP Metric &lpar;gRPC&rpar;](https://dev.to/somprasongd/observability-series-tnthii-4-ekb-metrics-dwy-opentelemetry-otlp-metric-grpc-31em)
+- [Observability Series ตอนที่ 3 — Tracing เชื่อม Logger ด้วย OpenTelemetry + Tempo](https://dev.to/somprasongd/observability-series-tnthii-3-tracing-echuuem-logger-dwy-opentelemetry-tempo-5b77)
+- [Observability Series ตอนที่ 2 — ส่ง Log เข้า Grafana ด้วย Loki](https://dev.to/somprasongd/observability-series-tnthii-2-sng-log-ekhaa-grafana-dwy-loki-2i1k)
+- [Observability Series ตอนที่ 1 — Observability คืออะไร ทำไมต้องทำ?](https://dev.to/somprasongd/observability-series-tnthii-1-observability-khuueaair-thamaimtngtham-4nnp)
+- [Observability Series ตอนที่ 1 — Observability คืออะไร ทำไมต้องทำ?](https://somprasongd.work/blog/go/observability-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
