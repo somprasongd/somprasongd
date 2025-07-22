@@ -65,11 +65,11 @@ VS Code                  9 hrs 19 mins       ███████████�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [แนะนำ Bash Command สำหรับ Developer มือใหม่](https://dev.to/somprasongd/aenanam-bash-command-samhrab-developer-muueaihm-5858)
+- [แนะนำ Bash Command สำหรับ Developer มือใหม่](https://somprasongd.work/blog/server/baisc-bash)
 - [Observability Series ตอนที่ 4 — เก็บ Metrics ด้วย OpenTelemetry + OTLP Metric &lpar;gRPC&rpar;](https://dev.to/somprasongd/observability-series-tnthii-4-ekb-metrics-dwy-opentelemetry-otlp-metric-grpc-31em)
 - [Observability Series ตอนที่ 3 — Tracing เชื่อม Logger ด้วย OpenTelemetry + Tempo](https://dev.to/somprasongd/observability-series-tnthii-3-tracing-echuuem-logger-dwy-opentelemetry-tempo-5b77)
 - [Observability Series ตอนที่ 2 — ส่ง Log เข้า Grafana ด้วย Loki](https://dev.to/somprasongd/observability-series-tnthii-2-sng-log-ekhaa-grafana-dwy-loki-2i1k)
-- [Observability Series ตอนที่ 1 — Observability คืออะไร ทำไมต้องทำ?](https://dev.to/somprasongd/observability-series-tnthii-1-observability-khuueaair-thamaimtngtham-4nnp)
-- [Observability Series ตอนที่ 1 — Observability คืออะไร ทำไมต้องทำ?](https://somprasongd.work/blog/go/observability-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
