@@ -46,15 +46,14 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Text                     6 mins              ████████████████████████░   96.45 % 
-Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/08/2025 02:39:05 UTC
+ Last Updated on 07/08/2025 02:39:06 UTC
 <!--END_SECTION:waka-->
 
 ---
