@@ -38,23 +38,8 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C093%20hrs%2023%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-Go                       34 mins             █████████████████████████   99.97 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-
-🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 16/09/2025 02:07:45 UTC
+ Last Updated on 17/09/2025 02:06:40 UTC
 <!--END_SECTION:waka-->
 
 ---
