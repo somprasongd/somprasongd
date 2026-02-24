@@ -46,22 +46,22 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Java                     4 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.84 % 
-Other                    3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
-Markdown                 1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Groff                    1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-SQL                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Java                     5 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   39.37 % 
+Other                    2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Groff                    2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Markdown                 1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+SQL                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 
 🔥 Editors: 
-NetBeans                 4 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   35.54 % 
-VS Code                  4 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-LINE                     3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-DBeaverCommunity         1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-iTerm2                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+NetBeans                 5 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   38.75 % 
+VS Code                  4 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.69 % 
+DBeaverCommunity         2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+LINE                     1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+iTerm2                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 
- Last Updated on 23/02/2026 03:25:19 UTC
+ Last Updated on 24/02/2026 03:20:22 UTC
 <!--END_SECTION:waka-->
 
 ---
