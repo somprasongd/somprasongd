@@ -46,22 +46,22 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       6 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.40 % 
-Other                    5 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.59 % 
-Markdown                 1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-TypeScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-HTTP Request             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Go                       7 hrs 57 mins       ████████████░░░░░░░░░░░░░   48.96 % 
+Other                    4 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   27.46 % 
+Markdown                 1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+TypeScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+HTTP Request             30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 38 mins       ███████████░░░░░░░░░░░░░░   43.25 % 
-Chrome                   4 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.55 % 
-LINE                     1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-DBeaverCommunity         1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-iTerm2                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+VS Code                  7 hrs 24 mins       ███████████░░░░░░░░░░░░░░   45.60 % 
+Chrome                   5 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.00 % 
+LINE                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+DBeaverCommunity         55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Postman                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 ```
 
 
- Last Updated on 16/03/2026 03:43:04 UTC
+ Last Updated on 17/03/2026 03:18:10 UTC
 <!--END_SECTION:waka-->
 
 ---
