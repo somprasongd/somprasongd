@@ -46,22 +46,22 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Java                     7 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   41.84 % 
-Other                    3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-Go                       2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-TypeScript               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Java                     7 hrs 22 mins       ███████████░░░░░░░░░░░░░░   42.51 % 
+Other                    4 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+TypeScript               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Go                       1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🔥 Editors: 
-Chrome                   8 hrs 39 mins       ████████████░░░░░░░░░░░░░   49.13 % 
-LINE                     2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-VS Code                  2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-NetBeans                 2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-DBeaverCommunity         32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Chrome                   8 hrs               ████████████░░░░░░░░░░░░░   46.19 % 
+LINE                     3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+NetBeans                 2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+VS Code                  2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Postman                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 ```
 
 
- Last Updated on 23/03/2026 03:31:26 UTC
+ Last Updated on 24/03/2026 03:19:03 UTC
 <!--END_SECTION:waka-->
 
 ---
