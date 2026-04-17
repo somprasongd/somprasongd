@@ -46,22 +46,22 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    25 hrs 50 mins      █████████████░░░░░░░░░░░░   53.33 % 
-Go                       7 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-TypeScript               6 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Markdown                 5 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Shell                    1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Other                    14 hrs 32 mins      █████████████░░░░░░░░░░░░   53.01 % 
+Go                       4 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+TypeScript               3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Markdown                 2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Shell                    1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 🔥 Editors: 
-Chrome                   39 hrs 57 mins      █████████████████████░░░░   82.45 % 
-VS Code                  6 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-LINE                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-iTerm2                   41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-Discord                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Chrome                   23 hrs 19 mins      █████████████████████░░░░   84.96 % 
+VS Code                  2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+LINE                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+iTerm2                   28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+DBeaverCommunity         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 
 
- Last Updated on 16/04/2026 03:54:56 UTC
+ Last Updated on 17/04/2026 03:51:49 UTC
 <!--END_SECTION:waka-->
 
 ---
