@@ -46,22 +46,22 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    12 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   40.91 % 
-Markdown                 7 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-Go                       5 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-Rust                     2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Makefile                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Other                    9 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   36.82 % 
+Go                       7 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   31.83 % 
+Markdown                 5 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+Makefile                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+TypeScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   34.98 % 
-Unknown Editor           7 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
-iTerm2                   5 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Chrome                   3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-LINE                     3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+VS Code                  9 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   38.88 % 
+Unknown Editor           5 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+iTerm2                   3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Chrome                   3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+LINE                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 ```
 
 
- Last Updated on 05/05/2026 03:56:26 UTC
+ Last Updated on 06/05/2026 04:22:19 UTC
 <!--END_SECTION:waka-->
 
 ---
