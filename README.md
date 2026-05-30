@@ -38,8 +38,30 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C334%20hrs%2032%20mins-blue?style=flat)
 
- Last Updated on 29/05/2026 04:53:12 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Go                       25 hrs 20 mins      ███████████░░░░░░░░░░░░░░   45.10 % 
+Other                    12 hrs 2 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+Markdown                 9 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+TypeScript               2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Makefile                 1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+
+🔥 Editors: 
+VS Code                  21 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   38.48 % 
+iTerm2                   13 hrs 1 min        ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+Claude Code              11 hrs 58 mins      █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Chrome                   5 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+LINE                     3 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+```
+
+
+ Last Updated on 30/05/2026 04:34:25 UTC
 <!--END_SECTION:waka-->
 
 ---
