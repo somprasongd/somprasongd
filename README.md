@@ -38,28 +38,30 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C410%20hrs%2013%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       40 hrs 10 mins      ████████████████░░░░░░░░░   62.50 % 
-Markdown                 17 hrs 53 mins      ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-Other                    4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Text                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-JSON                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Go                       49 hrs 15 mins      ███████████████░░░░░░░░░░   58.91 % 
+Markdown                 20 hrs 51 mins      ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
+Other                    5 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Python                   3 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Rust                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🔥 Editors: 
-VS Code                  36 hrs 56 mins      ██████████████░░░░░░░░░░░   57.49 % 
-iTerm2                   12 hrs 23 mins      █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-Claude Code              7 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Chrome                   3 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-LINE                     3 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+VS Code                  42 hrs 58 mins      █████████████░░░░░░░░░░░░   51.39 % 
+iTerm2                   16 hrs 42 mins      █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+Claude Code              12 hrs 15 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Chrome                   6 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+LINE                     3 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 ```
 
 
- Last Updated on 07/06/2026 05:07:57 UTC
+ Last Updated on 09/06/2026 04:45:52 UTC
 <!--END_SECTION:waka-->
 
 ---
