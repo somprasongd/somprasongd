@@ -38,7 +38,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C453%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C460%20hrs%2044%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -46,22 +46,22 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       38 hrs 23 mins      █████████████░░░░░░░░░░░░   50.95 % 
-Markdown                 17 hrs 28 mins      ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-Other                    6 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Rust                     6 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Python                   4 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Go                       36 hrs 15 mins      █████████████░░░░░░░░░░░░   52.71 % 
+Markdown                 12 hrs 28 mins      █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Other                    7 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Rust                     6 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Python                   4 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 5 mins       █████████░░░░░░░░░░░░░░░░   37.28 % 
-Claude Code              20 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-iTerm2                   14 hrs 31 mins      █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Chrome                   7 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-LINE                     2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+VS Code                  23 hrs 18 mins      ████████░░░░░░░░░░░░░░░░░   33.89 % 
+Claude Code              18 hrs 23 mins      ███████░░░░░░░░░░░░░░░░░░   26.74 % 
+iTerm2                   15 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+Chrome                   7 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+LINE                     2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 ```
 
 
- Last Updated on 12/06/2026 05:15:26 UTC
+ Last Updated on 13/06/2026 05:05:06 UTC
 <!--END_SECTION:waka-->
 
 ---
