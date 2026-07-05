@@ -38,7 +38,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C722%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C731%20hrs%2036%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -46,21 +46,22 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       48 hrs 10 mins      ████████████████░░░░░░░░░   63.79 % 
-Markdown                 17 hrs 16 mins      ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-Python                   4 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Makefile                 1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-JSON                     1 hr 14 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Go                       42 hrs 59 mins      ████████████████░░░░░░░░░   62.23 % 
+Markdown                 16 hrs 23 mins      ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+Python                   5 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Makefile                 1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+JSON                     1 hr 7 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-VS Code                  68 hrs 18 mins      ███████████████████████░░   90.46 % 
-Claude Code              6 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Opencode Cli             32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+VS Code                  61 hrs 34 mins      ██████████████████████░░░   89.12 % 
+Claude Code              5 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+DBeaverCommunity         59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Opencode Cli             32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 NetBeans                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
- Last Updated on 04/07/2026 04:20:20 UTC
+ Last Updated on 05/07/2026 04:41:13 UTC
 <!--END_SECTION:waka-->
 
 ---
