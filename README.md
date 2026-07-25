@@ -67,11 +67,11 @@ Zoom                     36 mins             ░░░░░░░░░░░�
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [เพิ่ม Web Search ให้ Claude Code ที่ใช้ MiniMax ผ่าน 9router](https://somprasongd.work/blog/ai/google-ai-mode-skill-2)
+- [Google AI Mode Skill: เพิ่มพลังการค้นคว้าให้ Claude Code](https://somprasongd.work/blog/ai/google-ai-mode-skill)
 - [เริ่มต้นใช้งาน opencode กับ Model ฟรีผ่าน Zen และ OpenRouter](https://somprasongd.work/blog/ai/opencode-setup)
 - [แนะนำ Bash Command สำหรับ Developer มือใหม่](https://dev.to/somprasongd/aenanam-bash-command-samhrab-developer-muueaihm-5858)
 - [แนะนำ Bash Command สำหรับ Developer มือใหม่](https://somprasongd.work/blog/server/baisc-bash)
-- [Observability Series ตอนที่ 4 — เก็บ Metrics ด้วย OpenTelemetry + OTLP Metric &lpar;gRPC&rpar;](https://dev.to/somprasongd/observability-series-tnthii-4-ekb-metrics-dwy-opentelemetry-otlp-metric-grpc-31em)
-- [Observability Series ตอนที่ 3 — Tracing เชื่อม Logger ด้วย OpenTelemetry + Tempo](https://dev.to/somprasongd/observability-series-tnthii-3-tracing-echuuem-logger-dwy-opentelemetry-tempo-5b77)
 <!-- BLOG-POST-LIST:END -->
 
 ---
