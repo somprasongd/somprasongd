@@ -44,22 +44,22 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       21 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   33.90 % 
-Markdown                 12 hrs 32 mins      █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Java                     10 hrs 52 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-SQL                      3 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Python                   2 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Go                       21 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   35.58 % 
+Markdown                 13 hrs 16 mins      █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+Java                     5 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+SQL                      4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Jupyter Notebook         4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 
 🔥 Editors: 
-VS Code                  47 hrs 18 mins      ███████████████████░░░░░░   75.60 % 
-Chrome                   9 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Claude Code              2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-LINE                     2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-Zoom                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+VS Code                  44 hrs 11 mins      ██████████████████░░░░░░░   72.58 % 
+Chrome                   10 hrs 53 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+LINE                     2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Claude Code              2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Zoom                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 
 
- Last Updated on 24/07/2026 03:54:19 UTC
+ Last Updated on 25/07/2026 03:48:59 UTC
 <!--END_SECTION:waka-->
 
 ---
