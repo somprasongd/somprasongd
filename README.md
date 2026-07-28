@@ -38,7 +38,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C916%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C511%20hrs%2038%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-806%20hrs%2051%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -46,22 +48,48 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       22 hrs              █████████░░░░░░░░░░░░░░░░   35.27 % 
-Markdown                 11 hrs 59 mins      █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Java                     6 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Jupyter Notebook         4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-SQL                      3 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Go                       21 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   34.79 % 
+Markdown                 10 hrs 33 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Fork                     6 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Java                     6 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Jupyter Notebook         4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 🔥 Editors: 
-VS Code                  44 hrs              ██████████████████░░░░░░░   70.52 % 
-Chrome                   11 hrs 56 mins      █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-Claude Code              2 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-LINE                     2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Zoom                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+VS Code                  41 hrs 39 mins      █████████████████░░░░░░░░   67.08 % 
+Chrome                   13 hrs 45 mins      ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Claude Code              3 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+LINE                     2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+DBeaverCommunity         18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 54 hrs 52 mins (88.38%)
+
+✍️ 37,444 lines written by AI, 174 lines written by hand (99.54% AI-written)
+
+🔤 988,769,028 Input Tokens, 5,302,824 Output Tokens
+
+💵 $3624.95 Estimated AI Cost This Week
+
+🧠 57 AI Sessions, 384 AI Prompts
+
+GPT                      17,496 lines        ███████████░░░░░░░░░░░░░░   45.17 % 
+Glm                      14,369 lines        █████████░░░░░░░░░░░░░░░░   37.10 % 
+M                        6,229 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+K                        639 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.54% of written lines came from AI
+📚 Verbose Prompter — average 3,325 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 1.66% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 04:23:03 UTC
+ Last Updated on 28/07/2026 03:47:06 UTC
 <!--END_SECTION:waka-->
 
 ---
