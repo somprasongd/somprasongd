@@ -38,9 +38,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C520%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C526%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-813%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-821%20hrs%2021%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -48,48 +48,48 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Fork                     6 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-Java                     5 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Markdown                 4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-SQL                      3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-Other                    2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Other                    7 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+Java                     4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Fork                     4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Go                       3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Markdown                 3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 28 mins      ███████████████░░░░░░░░░░   60.83 % 
-Chrome                   8 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   27.54 % 
-Claude Code              1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-LINE                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-DBeaverCommunity         15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+VS Code                  21 hrs 21 mins      █████████████████░░░░░░░░   68.41 % 
+Chrome                   4 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Claude Code              2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+LINE                     2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+DBeaverCommunity         16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 29 mins (82.73%)
+⏱ AI Coding Time: 27 hrs 46 mins (88.96%)
 
-✍️ 24,980 lines written by AI, 110 lines written by hand (99.56% AI-written)
+✍️ 22,108 lines written by AI, 92 lines written by hand (99.59% AI-written)
 
-🔤 376,419,171 Input Tokens, 2,172,375 Output Tokens
+🔤 330,841,329 Input Tokens, 1,873,284 Output Tokens
 
-💵 $1103.11 Estimated AI Cost This Week
+💵 $959.12 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 241 AI Prompts
+🧠 35 AI Sessions, 165 AI Prompts
 
-M                        17,333 lines        ███████████████████░░░░░░   75.32 % 
-Glm                      4,091 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-GPT                      1,580 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+M                        14,346 lines        ██████████████████░░░░░░░   71.53 % 
+Glm                      3,909 lines         █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+GPT                      1,795 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
 K                        7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.56% of written lines came from AI
-📚 Verbose Prompter — average 2,910 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.33% of changed lines were hand-edited
+🤖 AI-Driven — 99.59% of written lines came from AI
+📚 Verbose Prompter — average 2,945 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.56% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/07/2026 04:01:25 UTC
+ Last Updated on 01/08/2026 04:01:34 UTC
 <!--END_SECTION:waka-->
 
 ---
