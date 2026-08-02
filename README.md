@@ -38,9 +38,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C526%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C530%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-821%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-830%20hrs-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -48,48 +48,48 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    7 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-Java                     4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Fork                     4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Go                       3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Markdown                 3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Other                    7 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   26.88 % 
+Java                     3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Go                       3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Fork                     3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Markdown                 2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 21 mins      █████████████████░░░░░░░░   68.41 % 
-Chrome                   4 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Claude Code              2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-LINE                     2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-DBeaverCommunity         16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+VS Code                  19 hrs 33 mins      █████████████████░░░░░░░░   68.56 % 
+Chrome                   3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Claude Code              2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+LINE                     2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+DBeaverCommunity         14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 46 mins (88.96%)
+⏱ AI Coding Time: 25 hrs 22 mins (88.94%)
 
-✍️ 22,108 lines written by AI, 92 lines written by hand (99.59% AI-written)
+✍️ 21,173 lines written by AI, 92 lines written by hand (99.57% AI-written)
 
-🔤 330,841,329 Input Tokens, 1,873,284 Output Tokens
+🔤 303,409,648 Input Tokens, 1,591,461 Output Tokens
 
-💵 $959.12 Estimated AI Cost This Week
+💵 $882.26 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 165 AI Prompts
+🧠 33 AI Sessions, 145 AI Prompts
 
-M                        14,346 lines        ██████████████████░░░░░░░   71.53 % 
-Glm                      3,909 lines         █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-GPT                      1,795 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-K                        7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+M                        14,346 lines        ███████████████████░░░░░░   75.88 % 
+Glm                      2,759 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+GPT                      1,795 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+K                        7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.59% of written lines came from AI
-📚 Verbose Prompter — average 2,945 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.56% of changed lines were hand-edited
+🤖 AI-Driven — 99.57% of written lines came from AI
+📚 Verbose Prompter — average 2,929 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.58% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/08/2026 04:01:34 UTC
+ Last Updated on 02/08/2026 04:04:13 UTC
 <!--END_SECTION:waka-->
 
 ---
