@@ -48,48 +48,47 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    7 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   28.28 % 
-Go                       3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Java                     3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Markdown                 2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Fork                     2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Other                    7 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.82 % 
+Go                       4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+YAML                     3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Markdown                 2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+TypeScript               1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 31 mins      ██████████████████░░░░░░░   70.57 % 
-Chrome                   3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Claude Code              2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-LINE                     2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-DBeaverCommunity         14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+VS Code                  15 hrs 16 mins      ██████████████████░░░░░░░   73.75 % 
+Claude Code              3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+LINE                     2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+DBeaverCommunity         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+iTerm2                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 11 mins (88.36%)
+⏱ AI Coding Time: 18 hrs 45 mins (90.54%)
 
-✍️ 16,391 lines written by AI, 92 lines written by hand (99.44% AI-written)
+✍️ 14,196 lines written by AI, 66 lines written by hand (99.54% AI-written)
 
-🔤 288,709,196 Input Tokens, 1,388,268 Output Tokens
+🔤 81,363,107 Input Tokens, 588,074 Output Tokens
 
-💵 $847.01 Estimated AI Cost This Week
+💵 $236.96 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 120 AI Prompts
+🧠 12 AI Sessions, 66 AI Prompts
 
-M                        14,040 lines        ██████████████████████░░░   86.81 % 
-GPT                      1,795 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-Glm                      331 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-K                        7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+M                        13,549 lines        ████████████████████████░   95.30 % 
+Glm                      453 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+GPT                      215 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.44% of written lines came from AI
-📚 Verbose Prompter — average 3,282 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.75% of changed lines were hand-edited
+🤖 AI-Driven — 99.54% of written lines came from AI
+📚 Verbose Prompter — average 2,517 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.69% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/08/2026 04:06:54 UTC
+ Last Updated on 04/08/2026 03:48:59 UTC
 <!--END_SECTION:waka-->
 
 ---
