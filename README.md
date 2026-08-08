@@ -38,8 +38,58 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C547%20hrs%2023%20mins-blue?style=flat)
 
- Last Updated on 07/08/2026 03:29:55 UTC
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-844%20hrs%206%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Other                    9 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.22 % 
+Fork                     8 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+Java                     5 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Markdown                 5 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Go                       1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+
+🔥 Editors: 
+VS Code                  14 hrs 36 mins      ███████████░░░░░░░░░░░░░░   42.95 % 
+Chrome                   10 hrs 55 mins      ████████░░░░░░░░░░░░░░░░░   32.14 % 
+LINE                     5 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Zoom                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+DBeaverCommunity         45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 19 hrs 2 mins (56.02%)
+
+✍️ 19,424 lines written by AI, 3,145 lines written by hand (86.06% AI-written)
+
+🔤 295,632,570 Input Tokens, 2,215,616 Output Tokens
+
+💵 $1549.71 Estimated AI Cost This Week
+
+🧠 36 AI Sessions, 140 AI Prompts
+
+GPT                      19,951 lines        █████████████████████████   100.00 % 
+M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 86.06% of written lines came from AI
+📄 Detailed Prompter — average 582 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 13.93% of changed lines were hand-edited
+```
+
+
+ Last Updated on 08/08/2026 02:28:31 UTC
 <!--END_SECTION:waka-->
 
 ---
