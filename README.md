@@ -38,9 +38,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C547%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C554%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-844%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-848%20hrs%2046%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -48,48 +48,48 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    9 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-Fork                     8 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
-Java                     5 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Markdown                 5 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Go                       1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Other                    9 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
+Fork                     9 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+Java                     7 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+Markdown                 6 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Go                       1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 36 mins      ███████████░░░░░░░░░░░░░░   42.95 % 
-Chrome                   10 hrs 55 mins      ████████░░░░░░░░░░░░░░░░░   32.14 % 
-LINE                     5 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Zoom                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-DBeaverCommunity         45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+VS Code                  19 hrs 2 mins       ████████████░░░░░░░░░░░░░   48.40 % 
+Chrome                   11 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   30.19 % 
+LINE                     5 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Zoom                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+DBeaverCommunity         47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 2 mins (56.02%)
+⏱ AI Coding Time: 24 hrs 5 mins (61.24%)
 
-✍️ 19,424 lines written by AI, 3,145 lines written by hand (86.06% AI-written)
+✍️ 26,854 lines written by AI, 3,146 lines written by hand (89.51% AI-written)
 
-🔤 295,632,570 Input Tokens, 2,215,616 Output Tokens
+🔤 298,688,383 Input Tokens, 2,838,426 Output Tokens
 
-💵 $1549.71 Estimated AI Cost This Week
+💵 $1684.62 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 140 AI Prompts
+🧠 47 AI Sessions, 188 AI Prompts
 
-GPT                      19,951 lines        █████████████████████████   100.00 % 
-M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      27,299 lines        █████████████████████████   99.76 % 
+M                        67 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.06% of written lines came from AI
-📄 Detailed Prompter — average 582 characters per prompt
+🤖 AI-Driven — 89.51% of written lines came from AI
+📄 Detailed Prompter — average 544 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 13.93% of changed lines were hand-edited
+🚀 High AI Trust — 10.54% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/08/2026 02:28:31 UTC
+ Last Updated on 09/08/2026 02:35:25 UTC
 <!--END_SECTION:waka-->
 
 ---
