@@ -38,9 +38,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C593%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C607%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-889%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-902%20hrs%2051%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -48,48 +48,48 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Java                     27 hrs 47 mins      ███████████░░░░░░░░░░░░░░   45.28 % 
-Markdown                 14 hrs 44 mins      ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-Other                    9 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-SQL                      1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-XML                      1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Java                     27 hrs 53 mins      ████████████░░░░░░░░░░░░░   46.84 % 
+Markdown                 14 hrs 52 mins      ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+Other                    8 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+XML                      1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+SQL                      1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 59 mins      ████████░░░░░░░░░░░░░░░░░   32.58 % 
-Codex Vscode             13 hrs 36 mins      ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-Claude Code              12 hrs 57 mins      █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-LINE                     7 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Chrome                   4 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Codex Vscode             16 hrs 48 mins      ███████░░░░░░░░░░░░░░░░░░   28.22 % 
+VS Code                  15 hrs 41 mins      ███████░░░░░░░░░░░░░░░░░░   26.34 % 
+Claude Code              13 hrs 2 mins       █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+LINE                     7 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Chrome                   3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 hrs 4 mins (88.16%)
+⏱ AI Coding Time: 52 hrs 29 mins (88.16%)
 
-✍️ 41,847 lines written by AI, 41 lines written by hand (99.9% AI-written)
+✍️ 38,142 lines written by AI, 40 lines written by hand (99.9% AI-written)
 
-🔤 47,906,213 Input Tokens, 5,699,459 Output Tokens
+🔤 43,704,605 Input Tokens, 5,373,479 Output Tokens
 
-💵 $1204.75 Estimated AI Cost This Week
+💵 $1166.57 Estimated AI Cost This Week
 
-🧠 89 AI Sessions, 442 AI Prompts
+🧠 81 AI Sessions, 422 AI Prompts
 
-GPT                      33,067 lines        ███████████████████░░░░░░   74.15 % 
-Opus                     7,978 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Glm                      2,346 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Sonnet                   634 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-Vscode-Wakatime          356 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+GPT                      30,030 lines        ██████████████████░░░░░░░   72.14 % 
+Opus                     7,978 lines         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Glm                      2,480 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Sonnet                   634 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Vscode-Wakatime          356 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.9% of written lines came from AI
-📚 Verbose Prompter — average 2,859 characters per prompt
+📚 Verbose Prompter — average 2,948 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.53% of changed lines were hand-edited
+🚀 High AI Trust — 0.57% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/08/2026 01:57:00 UTC
+ Last Updated on 16/08/2026 02:06:28 UTC
 <!--END_SECTION:waka-->
 
 ---
