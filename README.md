@@ -38,9 +38,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C628%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C629%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-930%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-932%20hrs%2024%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -48,32 +48,32 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    21 hrs 9 mins       █████████████░░░░░░░░░░░░   53.46 % 
-Markdown                 8 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-Go                       4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Fork                     1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Bash                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Other                    21 hrs 46 mins      █████████████░░░░░░░░░░░░   53.81 % 
+Markdown                 8 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+Go                       4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Fork                     1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Bash                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🔥 Editors: 
-LINE                     15 hrs 16 mins      ██████████░░░░░░░░░░░░░░░   38.59 % 
-VS Code                  14 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   35.89 % 
-Chrome                   6 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-iTerm2                   1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Zoom                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+LINE                     15 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   37.83 % 
+VS Code                  15 hrs 2 mins       █████████░░░░░░░░░░░░░░░░   37.16 % 
+Chrome                   6 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+iTerm2                   1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Zoom                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 57 mins (65.57%)
+⏱ AI Coding Time: 26 hrs 41 mins (65.95%)
 
 ✍️ 338 lines written by AI, 233 lines written by hand (59.19% AI-written)
 
-🔤 957,420,217 Input Tokens, 9,287,451 Output Tokens
+🔤 1,031,546,201 Input Tokens, 9,561,608 Output Tokens
 
-💵 $5849.27 Estimated AI Cost This Week
+💵 $6294.95 Estimated AI Cost This Week
 
-🧠 106 AI Sessions, 88 AI Prompts
+🧠 113 AI Sessions, 88 AI Prompts
 
 Glm                      183 lines           ████████████░░░░░░░░░░░░░   48.80 % 
 GPT                      145 lines           ██████████░░░░░░░░░░░░░░░   38.67 % 
@@ -89,7 +89,7 @@ ZCode                    0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/08/2026 02:09:16 UTC
+ Last Updated on 24/08/2026 02:07:46 UTC
 <!--END_SECTION:waka-->
 
 ---
