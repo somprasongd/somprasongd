@@ -38,9 +38,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C645%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C653%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-946%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-955%20hrs%208%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -48,48 +48,48 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    17 hrs 14 mins      ████████░░░░░░░░░░░░░░░░░   33.96 % 
-Markdown                 16 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   32.92 % 
-Java                     7 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Fork                     5 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Bash                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Other                    17 hrs 23 mins      ████████░░░░░░░░░░░░░░░░░   33.87 % 
+Markdown                 13 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
+Java                     9 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Fork                     4 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+JavaScript               1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 33 mins      ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-LINE                     10 hrs 52 mins      █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-Chrome                   10 hrs 4 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Claude Code              9 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-Codex Vscode             4 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Claude Code              13 hrs 4 mins       ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
+Chrome                   10 hrs 2 mins       █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+VS Code                  9 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+LINE                     9 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+Codex Vscode             4 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 hrs 28 mins (75.74%)
+⏱ AI Coding Time: 37 hrs 45 mins (73.54%)
 
-✍️ 5,329 lines written by AI, 110 lines written by hand (97.98% AI-written)
+✍️ 11,284 lines written by AI, 135 lines written by hand (98.82% AI-written)
 
-🔤 1,382,358,079 Input Tokens, 13,878,367 Output Tokens
+🔤 1,020,327,137 Input Tokens, 9,891,510 Output Tokens
 
-💵 $8477.87 Estimated AI Cost This Week
+💵 $6369.28 Estimated AI Cost This Week
 
-🧠 130 AI Sessions, 247 AI Prompts
+🧠 112 AI Sessions, 369 AI Prompts
 
-GPT                      3,309 lines         ███████████████░░░░░░░░░░   59.41 % 
-Sonnet                   1,742 lines         ████████░░░░░░░░░░░░░░░░░   31.27 % 
-Glm                      422 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Opus                     97 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      3,986 lines         █████████░░░░░░░░░░░░░░░░   34.19 % 
+Glm                      3,717 lines         ████████░░░░░░░░░░░░░░░░░   31.88 % 
+Opus                     2,214 lines         █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+Sonnet                   1,742 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+M                        1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.98% of written lines came from AI
-📚 Verbose Prompter — average 4,659 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 2.39% of changed lines were hand-edited
+🤖 AI-Driven — 98.82% of written lines came from AI
+📚 Verbose Prompter — average 3,940 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 1.8% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/08/2026 10:10:20 UTC
+ Last Updated on 28/08/2026 11:41:18 UTC
 <!--END_SECTION:waka-->
 
 ---
