@@ -48,45 +48,46 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    9 hrs 15 mins       █████████████████░░░░░░░░   67.67 % 
-Markdown                 2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Java                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-XML                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Go                       22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Other                    7 hrs 54 mins       █████████████░░░░░░░░░░░░   53.22 % 
+Markdown                 3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+Go                       1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Makefile                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Java                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 
 🔥 Editors: 
-LINE                     6 hrs 35 mins       ████████████░░░░░░░░░░░░░   48.27 % 
-VS Code                  2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Zoom                     1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Discord                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Chrome                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+VS Code                  4 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   32.83 % 
+LINE                     4 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.26 % 
+Codex Vscode             1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Zoom                     1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Discord                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 25 mins (39.73%)
+⏱ AI Coding Time: 8 hrs 13 mins (55.35%)
 
-✍️ 345 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,745 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 456,325,704 Input Tokens, 3,102,222 Output Tokens
+🔤 227,766,714 Input Tokens, 1,623,377 Output Tokens
 
-💵 $2747.77 Estimated AI Cost This Week
+💵 $1434.24 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 2 AI Prompts
+🧠 28 AI Sessions, 31 AI Prompts
 
-GPT                      345 lines           █████████████████████████   100.00 % 
+GPT                      950 lines           ██████████████░░░░░░░░░░░   54.44 % 
+M                        795 lines           ███████████░░░░░░░░░░░░░░   45.56 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 8,052 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.86% of changed lines were hand-edited
+📚 Verbose Prompter — average 1,794 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.29% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/09/2026 05:05:57 UTC
+ Last Updated on 08/09/2026 05:03:18 UTC
 <!--END_SECTION:waka-->
 
 ---
