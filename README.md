@@ -38,9 +38,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C726%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C739%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C034%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C048%20hrs%2059%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -48,48 +48,48 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 21 hrs              ████████░░░░░░░░░░░░░░░░░   33.85 % 
-Other                    10 hrs 20 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-TypeScript               5 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-YAML                     4 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Python                   4 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Markdown                 24 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   34.16 % 
+Other                    12 hrs 53 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Go                       6 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+TypeScript               6 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+YAML                     4 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
 
 🔥 Editors: 
-Claude Code              29 hrs              ████████████░░░░░░░░░░░░░   46.72 % 
-VS Code                  16 hrs 14 mins      ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-Codex Vscode             8 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-LINE                     4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Chrome                   2 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Claude Code              36 hrs 32 mins      █████████████░░░░░░░░░░░░   51.00 % 
+VS Code                  15 hrs 21 mins      █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+Codex Vscode             7 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Chrome                   7 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+LINE                     4 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 hrs 13 mins (93.78%)
+⏱ AI Coding Time: 67 hrs 43 mins (94.51%)
 
-✍️ 20,006 lines written by AI, 247 lines written by hand (98.78% AI-written)
+✍️ 24,436 lines written by AI, 247 lines written by hand (99.0% AI-written)
 
-🔤 1,114,196,289 Input Tokens, 8,097,578 Output Tokens
+🔤 1,428,636,890 Input Tokens, 9,973,780 Output Tokens
 
-💵 $7469.24 Estimated AI Cost This Week
+💵 $9458.67 Estimated AI Cost This Week
 
-🧠 126 AI Sessions, 418 AI Prompts
+🧠 155 AI Sessions, 495 AI Prompts
 
-Sonnet                   8,082 lines         ██████████░░░░░░░░░░░░░░░   40.54 % 
-Opus                     6,922 lines         █████████░░░░░░░░░░░░░░░░   34.72 % 
-GPT                      4,076 lines         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-M                        856 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Opus                     11,567 lines        ████████████░░░░░░░░░░░░░   47.47 % 
+Sonnet                   9,242 lines         █████████░░░░░░░░░░░░░░░░   37.93 % 
+GPT                      3,471 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+M                        86 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.78% of written lines came from AI
-📄 Detailed Prompter — average 1,405 characters per prompt
+🤖 AI-Driven — 99.0% of written lines came from AI
+📄 Detailed Prompter — average 1,341 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.24% of changed lines were hand-edited
+🚀 High AI Trust — 1.01% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/09/2026 05:20:01 UTC
+ Last Updated on 15/09/2026 05:11:01 UTC
 <!--END_SECTION:waka-->
 
 ---
