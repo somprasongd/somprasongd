@@ -38,9 +38,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C803%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C812%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C140%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C147%20hrs%2014%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -48,48 +48,48 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    31 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   35.59 % 
-Markdown                 14 hrs 51 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Fork                     10 hrs 2 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Python                   8 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-TypeScript               5 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Other                    28 hrs 14 mins      ████████░░░░░░░░░░░░░░░░░   32.91 % 
+Markdown                 14 hrs 12 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Fork                     10 hrs 45 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+TypeScript               7 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+JavaScript               6 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 
 🔥 Editors: 
-Chrome                   45 hrs 39 mins      █████████████░░░░░░░░░░░░   51.07 % 
-VS Code                  13 hrs 33 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Claude Code              12 hrs 16 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-LINE                     7 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Antigravity Desktop      6 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Chrome                   39 hrs 44 mins      ████████████░░░░░░░░░░░░░   46.32 % 
+VS Code                  15 hrs 19 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Claude Code              12 hrs 25 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+LINE                     8 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Antigravity Desktop      6 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 77 hrs 9 mins (86.31%)
+⏱ AI Coding Time: 74 hrs 50 mins (87.23%)
 
-✍️ 30,140 lines written by AI, 23 lines written by hand (99.92% AI-written)
+✍️ 29,245 lines written by AI, 32 lines written by hand (99.89% AI-written)
 
-🔤 1,529,078,342 Input Tokens, 11,134,843 Output Tokens
+🔤 1,133,355,971 Input Tokens, 9,630,250 Output Tokens
 
-💵 $10026.31 Estimated AI Cost This Week
+💵 $7748.81 Estimated AI Cost This Week
 
-🧠 175 AI Sessions, 455 AI Prompts
+🧠 186 AI Sessions, 534 AI Prompts
 
-Opus                     9,093 lines         ████████░░░░░░░░░░░░░░░░░   30.65 % 
-Sonnet                   8,834 lines         ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-GPT                      5,313 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-M                        3,466 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-ZCode                    2,958 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Opus                     9,093 lines         ████████░░░░░░░░░░░░░░░░░   31.65 % 
+Sonnet                   8,834 lines         ████████░░░░░░░░░░░░░░░░░   30.75 % 
+GPT                      3,759 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+M                        3,650 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+ZCode                    3,393 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.92% of written lines came from AI
-📄 Detailed Prompter — average 754 characters per prompt
+🤖 AI-Driven — 99.89% of written lines came from AI
+📄 Detailed Prompter — average 598 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.35% of changed lines were hand-edited
+🚀 High AI Trust — 0.4% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/09/2026 05:02:10 UTC
+ Last Updated on 24/09/2026 05:13:06 UTC
 <!--END_SECTION:waka-->
 
 ---
