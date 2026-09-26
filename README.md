@@ -38,9 +38,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C820%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C830%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C153%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C163%20hrs%2055%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -48,48 +48,48 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    20 hrs 12 mins      ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-Markdown                 15 hrs 44 mins      █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Fork                     9 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-JavaScript               8 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-TypeScript               7 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Other                    18 hrs 43 mins      █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+Markdown                 17 hrs 27 mins      █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+JavaScript               8 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+TypeScript               7 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Fork                     7 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 
 🔥 Editors: 
-Chrome                   35 hrs 19 mins      ███████████░░░░░░░░░░░░░░   43.19 % 
-VS Code                  14 hrs 59 mins      █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Claude Code              11 hrs 17 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Codex Vscode             7 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-LINE                     6 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Chrome                   32 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   37.35 % 
+Codex Vscode             20 hrs 40 mins      ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+VS Code                  15 hrs 51 mins      █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Claude Code              10 hrs 24 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+LINE                     5 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 70 hrs 24 mins (86.07%)
+⏱ AI Coding Time: 75 hrs 58 mins (87.18%)
 
-✍️ 31,513 lines written by AI, 57 lines written by hand (99.82% AI-written)
+✍️ 37,687 lines written by AI, 62 lines written by hand (99.84% AI-written)
 
-🔤 980,210,726 Input Tokens, 9,972,846 Output Tokens
+🔤 989,161,547 Input Tokens, 12,343,990 Output Tokens
 
-💵 $7151.67 Estimated AI Cost This Week
+💵 $7846.02 Estimated AI Cost This Week
 
-🧠 189 AI Sessions, 556 AI Prompts
+🧠 192 AI Sessions, 515 AI Prompts
 
-Opus                     9,093 lines         ███████░░░░░░░░░░░░░░░░░░   28.87 % 
-Sonnet                   8,834 lines         ███████░░░░░░░░░░░░░░░░░░   28.05 % 
-GPT                      6,150 lines         █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-ZCode                    3,984 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-M                        3,351 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+GPT                      12,392 lines        ████████░░░░░░░░░░░░░░░░░   32.77 % 
+Opus                     9,093 lines         ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+Sonnet                   8,834 lines         ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+ZCode                    4,158 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+M                        3,234 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.82% of written lines came from AI
-📄 Detailed Prompter — average 570 characters per prompt
+🤖 AI-Driven — 99.84% of written lines came from AI
+📄 Detailed Prompter — average 602 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.74% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/09/2026 05:15:00 UTC
+ Last Updated on 26/09/2026 05:19:55 UTC
 <!--END_SECTION:waka-->
 
 ---
