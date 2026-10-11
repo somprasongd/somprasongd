@@ -38,9 +38,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C008%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C027%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C381%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C400%20hrs%204%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -48,48 +48,48 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 48 hrs 30 mins      █████████░░░░░░░░░░░░░░░░   36.75 % 
-Other                    23 hrs 32 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-TypeScript               22 hrs 26 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Python                   11 hrs 25 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-JSON                     6 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Markdown                 53 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   40.89 % 
+Other                    23 hrs 54 mins      █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+TypeScript               19 hrs 37 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Python                   9 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+JSON                     6 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🔥 Editors: 
-ZCode                    44 hrs 58 mins      █████████░░░░░░░░░░░░░░░░   34.07 % 
-Claude Code              32 hrs 52 mins      ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-Codex Vscode             32 hrs 11 mins      ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-Chrome                   14 hrs 58 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-LINE                     5 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+ZCode                    46 hrs 52 mins      █████████░░░░░░░░░░░░░░░░   36.10 % 
+Claude Code              37 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   28.78 % 
+Codex Vscode             29 hrs 33 mins      ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+Chrome                   9 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+LINE                     5 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 130 hrs 37 mins (98.93%)
+⏱ AI Coding Time: 128 hrs 12 mins (98.75%)
 
-✍️ 65,988 lines written by AI, 14 lines written by hand (99.98% AI-written)
+✍️ 59,575 lines written by AI, 14 lines written by hand (99.98% AI-written)
 
-🔤 158,624,509 Input Tokens, 27,726,735 Output Tokens
+🔤 150,226,091 Input Tokens, 25,475,009 Output Tokens
 
-💵 $9721.20 Estimated AI Cost This Week
+💵 $8366.05 Estimated AI Cost This Week
 
-🧠 302 AI Sessions, 1127 AI Prompts
+🧠 318 AI Sessions, 1115 AI Prompts
 
-ZCode                    37,053 lines        ██████████████░░░░░░░░░░░   55.82 % 
-Sonnet                   13,007 lines        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-GPT                      9,046 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Opus                     7,048 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Codex-Vscode             230 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+ZCode                    29,305 lines        ████████████░░░░░░░░░░░░░   47.78 % 
+Sonnet                   13,007 lines        █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+GPT                      10,895 lines        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Opus                     7,048 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Fable                    1,049 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 1,789 characters per prompt
+📚 Verbose Prompter — average 1,884 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/10/2026 06:15:57 UTC
+ Last Updated on 11/10/2026 06:15:21 UTC
 <!--END_SECTION:waka-->
 
 ---
