@@ -38,9 +38,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C058%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C071%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C443%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C456%20hrs%2035%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -48,48 +48,48 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 47 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   39.12 % 
-Other                    21 hrs 56 mins      █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-TypeScript               13 hrs 6 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Python                   9 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-JSON                     4 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Markdown                 50 hrs 6 mins       ██████████░░░░░░░░░░░░░░░   41.72 % 
+Other                    18 hrs 51 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Python                   11 hrs 30 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+TypeScript               9 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Sponsor                  3 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🔥 Editors: 
-ZCode                    41 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   33.85 % 
-Codex Vscode             38 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   31.59 % 
-Claude Code              32 hrs 34 mins      ███████░░░░░░░░░░░░░░░░░░   26.75 % 
-Chrome                   5 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-iTerm2                   2 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Codex Vscode             48 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   40.39 % 
+ZCode                    39 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   32.91 % 
+Claude Code              22 hrs 23 mins      █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Chrome                   5 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+iTerm2                   3 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 117 hrs 35 mins (96.57%)
+⏱ AI Coding Time: 115 hrs 45 mins (96.39%)
 
-✍️ 45,212 lines written by AI, 14 lines written by hand (99.97% AI-written)
+✍️ 48,854 lines written by AI, 14 lines written by hand (99.97% AI-written)
 
-🔤 173,813,384 Input Tokens, 25,065,123 Output Tokens
+🔤 165,251,390 Input Tokens, 21,997,536 Output Tokens
 
-💵 $8971.39 Estimated AI Cost This Week
+💵 $7880.99 Estimated AI Cost This Week
 
-🧠 231 AI Sessions, 1045 AI Prompts
+🧠 207 AI Sessions, 727 AI Prompts
 
-GPT                      15,539 lines        █████████░░░░░░░░░░░░░░░░   34.12 % 
-ZCode                    11,523 lines        ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-Sonnet                   11,477 lines        ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-Opus                     5,950 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Fable                    1,049 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+GPT                      25,418 lines        █████████████░░░░░░░░░░░░   51.41 % 
+ZCode                    15,545 lines        ████████░░░░░░░░░░░░░░░░░   31.44 % 
+Sonnet                   4,552 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Opus                     2,873 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Fable                    1,049 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 2,211 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 2,992 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/10/2026 05:15:00 UTC
+ Last Updated on 15/10/2026 05:01:57 UTC
 <!--END_SECTION:waka-->
 
 ---
